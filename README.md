@@ -2,6 +2,9 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
+### Instructions for playing the game
+
+
 To play the game:
 1. Go to the **Settings** tab of this repository.
 1. Scroll down to the section titled _GitHub Pages_
@@ -9,7 +12,6 @@ To play the game:
 1. Click **Save**.
 1. Navigate to the URL provided in the same section.
 
-### Instructions for playing the game
 
 1. Press the space bar to begin.
 2. Use the up and down arrow keys to rotate the shape.
